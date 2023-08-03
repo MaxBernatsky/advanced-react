@@ -7,7 +7,7 @@ export const PageError = () => {
     const { t } = useTranslation();
 
     const reloadPage = () => {
-        // eslint-disable-next-line no-restricted-globals
+    // eslint-disable-next-line no-restricted-globals
         location.reload();
     };
     return (
