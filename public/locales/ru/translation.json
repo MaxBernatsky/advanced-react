@@ -10,5 +10,8 @@
   "throw Error": "throw Error",
   "toggle": "toggle",
   "Короткий язык": "Ru",
-  "Войти": "Войти"
+  "Войти": "Войти",
+  "Lorem ipsum dolor sit amet, consectetur adipisicing elit": {
+    "": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+  }
 }
